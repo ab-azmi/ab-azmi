@@ -1,6 +1,8 @@
+<img src="Rainbow.gif" width="100%">
+
 <div>
     <div align=center>
-        <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Azmi</h1>
+        <h3 align="center">Hi <img width="35" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">, I'm Azmi</h3>
     </div>
     <div align=center>
        <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=450&lines=Welcome+to+My+Github+Page;I'm+a+Web+Developer" alt="Headline" />
@@ -43,8 +45,10 @@
   <!--  <img src="https://itstommi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song"> -->
       <img src="https://novatorem-pc2ql5v61-ab-azmi.vercel.app/api/spotify" alt="Current spotify song">
   </a>
-  <br/><br/>
+  <br/>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=1hb1g6gk6hzx3ydxd916zut1w" alt="Spotify">
 
 </details>
 
+
+<img src="Rainbow.gif" width="100%">
