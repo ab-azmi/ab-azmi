@@ -5,6 +5,11 @@
     <div align=center>
        <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=450&lines=Welcome+to+My+Github+Page;I'm+a+Web+Developer" alt="Headline" />
     </div>
+    <div align=center>
+          <a href="https://spotify-recently-played-readme.vercel.app/api?user=1hb1g6gk6hzx3ydxd916zut1w">
+            <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+         </a>
+    </div>
 </div>
 
 
