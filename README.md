@@ -5,11 +5,6 @@
     <div align=center>
        <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=450&lines=Welcome+to+My+Github+Page;I'm+a+Web+Developer" alt="Headline" />
     </div>
-    <div align=center>
-          <a href="https://spotify-recently-played-readme.vercel.app/api?user=1hb1g6gk6hzx3ydxd916zut1w">
-            <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-         </a>
-    </div>
 </div>
 
 
@@ -41,11 +36,14 @@
     </div>
   </div>    
 </details>
-
 <details>
-  <summary>📈 Activity Graph</summary>
+  <summary>🎶 Vibing to</summary>
   <br/>
-  <h2 align="center"> my current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  <a href="https://open.spotify.com/user/1hb1g6gk6hzx3ydxd916zut1w">
+    <img src="https://itstommi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
+  </a>
+  <br/><br/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=1hb1g6gk6hzx3ydxd916zut1w" alt="Spotify">
+
 </details>
 
