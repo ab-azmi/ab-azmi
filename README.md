@@ -12,6 +12,31 @@
 
 <details>
   <summary>☎️ Contact me</summary>
+    <div align="center">
+       <a href="https://wa.me/083872108769">
+            <img src="https://img.shields.io/badge/-Whatsapp-075E54?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=282828">
+       </a>
+       <a href="https://www.instagram.com/ab_azmi1010/">
+            <img src="https://img.shields.io/badge/-Instagram-5851DB?style=for-the-badge&logo=instagram&logoColor=5851DB&labelColor=282828">
+       </a>
+       <a href="mailto:azmi1752@students.unnes.ac.id?subject=Someone_Reached_You_From_Github">
+            <img src="https://img.shields.io/badge/-Email-BB001B?style=for-the-badge&logo=gmail&logoColor=BB001B&labelColor=282828">
+        </a>
+    </div>
+    <div align="center">
+       <a href="https://t.me/bot_1002">
+            <img src="https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=25D366&labelColor=282828">
+       </a>
+       <a href="https://dribbble.com/ab-azmi">
+            <img src="https://img.shields.io/badge/-Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=ea4c89&labelColor=282828">
+       </a>
+       <a href="">
+            <img src="https://img.shields.io/badge/-Twitter-FF5B00?style=for-the-badge&logo=twitter&logoColor=FF5B00&labelColor=282828">
+        </a>
+        <a href="https://www.linkedin.com/in/abdillah-azmi-4a2111232">
+            <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=0072b1&labelColor=282828">
+       </a>
+    </div>
 <div>
     
 </div>
