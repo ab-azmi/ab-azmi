@@ -40,7 +40,8 @@
   <summary>🎶 Vibing to</summary>
   <br/>
   <a href="https://open.spotify.com/user/1hb1g6gk6hzx3ydxd916zut1w">
-    <img src="https://itstommi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
+  <!--  <img src="https://itstommi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song"> -->
+      <img src="https://novatorem-pc2ql5v61-ab-azmi.vercel.app/api/spotify" alt="Current spotify song">
   </a>
   <br/><br/>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=1hb1g6gk6hzx3ydxd916zut1w" alt="Spotify">
