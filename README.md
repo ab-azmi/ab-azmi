@@ -2,7 +2,7 @@
 
 <div>
     <div align=center>
-        <h3 align="center">Hi <img width="35" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">, I'm Azmi</h3>
+        <h3 align="center">Hello There, I'm Azmi <img width="25" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></h3>
     </div>
     <div align=center>
        <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=450&lines=Welcome+to+My+Github+Page;I'm+a+Web+Developer" alt="Headline" />
@@ -43,7 +43,35 @@
 </details>
 
 <details>
+    <summary>🎓 My Education</summary>
+</details>
+
+<details>
   <summary>🧮 My Skills</summary>
+    <div>
+        <div align=center>
+            <h2>Understand Well</h2>
+            <div align="center">
+              <img src="https://img.shields.io/badge/-Bash-ef5faa?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=black" width="120px"> &nbsp;
+              <img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white&labelColor=black" width="120px"> &nbsp;
+              <img src="https://img.shields.io/badge/-CSS-1B998B?style=for-the-badge&logo=css3&logoColor=white&labelColor=black" width="120px"> &nbsp;
+              <img src="https://img.shields.io/badge/-PHP-FF0054?style=for-the-badge&logo=php&logoColor=white&labelColor=black" width="120px"> &nbsp;              
+              <img src="https://img.shields.io/badge/-Git-indigo?style=for-the-badge&logo=git&logoColor=white&labelColor=black" width="120px"> &nbsp;
+            </div>
+            <div align=center>
+                <img src="https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white&labelColor=black" width="150px"> &nbsp;
+                <img src="https://img.shields.io/badge/-Figma-purple?style=for-the-badge&logo=figma&logoColor=white&labelColor=black" width="120px"> &nbsp;
+                <img src="https://img.shields.io/badge/-Tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=black" width="150px"> &nbsp;
+                <img src="https://img.shields.io/badge/-MySQL-red?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black" width="120px"> &nbsp;
+            </div>
+            <h2>Will be Studied</h2>
+             <div align=center>
+                <img src="https://img.shields.io/badge/-ReactJS-FF0054?style=for-the-badge&logo=react&logoColor=white&labelColor=black" width="150px"> &nbsp;
+                <img src="https://img.shields.io/badge/-NodeJS-purple?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black" width="120px"> &nbsp;
+                <img src="https://img.shields.io/badge/-UI Design-003F91?style=for-the-badge&logo=dribbble&logoColor=white&labelColor=black" width="150px"> &nbsp;
+            </div>
+        </div>
+    </div>
 <div>
 
 </div>
@@ -53,7 +81,7 @@
   <summary>💻 GitHub Profile Stats</summary>
   <div>
      <div align=center>
-        <h1>Contribution Activity</h1>
+        <h2>Contribution Activity</h2>
         <img src="https://github-readme-stats.vercel.app/api?username=ab-azmi&title_color=44b2da&text_color=FFFFFF&show_icons=true&icon_color=44b2da&include_all_commits=true&count_private=true&theme=algolia" alt="GitHub Stats" height="200" />
         <br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab-azmi&theme=algolia&date_format=j%20M%5B%20Y%5D&currStreakLabel=44b2da&fire=e9184c&ring=44b2da" alt="GitHub Streak Stats" height="200" />
@@ -65,14 +93,15 @@
 </details>
 <details>
   <summary>🎶 Vibing to</summary>
-  <br/>
-  <a href="https://open.spotify.com/user/1hb1g6gk6hzx3ydxd916zut1w">
-  <!--  <img src="https://itstommi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song"> -->
-      <img src="https://novatorem-pc2ql5v61-ab-azmi.vercel.app/api/spotify" alt="Current spotify song">
-  </a>
-  <br/>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=1hb1g6gk6hzx3ydxd916zut1w" alt="Spotify">
-
+    <div align=center>
+        <h2>The Musics I Like to Hear</h2>
+      <a href="https://open.spotify.com/user/1hb1g6gk6hzx3ydxd916zut1w">
+      <!--  <img src="https://itstommi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song"> -->
+          <img src="https://novatorem-pc2ql5v61-ab-azmi.vercel.app/api/spotify" alt="Current spotify song">
+      </a>
+      <br/>
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=1hb1g6gk6hzx3ydxd916zut1w" alt="Spotify">
+    </div>
 </details>
 
 
