@@ -44,6 +44,19 @@
 
 <details>
     <summary>🎓 My Education</summary>
+    <div>
+        <div align=center>
+            <h3><b>2020 - Present</b></h3>
+            <h3>Universitas Negeri Semarang</h3>
+            Fakultas Matematika dan Ilmu Pengetahuan Alam, Program Studi Informatika
+        </div>
+        <hr/>
+        <div align=center>
+            <h3><b>2017 - 2020</b></h3>
+            <h3>SMK Negeri 1 Wonosobo</h3>
+            Jurusan Rekayasa Perangkat Lunak
+        </div>
+    </div>
 </details>
 
 <details>
@@ -82,11 +95,11 @@
   <div>
      <div align=center>
         <h2>Contribution Activity</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=ab-azmi&title_color=44b2da&text_color=FFFFFF&show_icons=true&icon_color=44b2da&include_all_commits=true&count_private=true&theme=algolia" alt="GitHub Stats" height="200" />
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=ab-azmi&show_icons=true&theme=algolia&hide_border=true" />
         <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab-azmi&theme=algolia&date_format=j%20M%5B%20Y%5D&currStreakLabel=44b2da&fire=e9184c&ring=44b2da" alt="GitHub Streak Stats" height="200" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab-azmi&theme=algolia&date_format=j%20M%5B%20Y%5D&currStreakLabel=44b2da&fire=e9184c&ring=44b2da&hide_border=true" alt="GitHub Streak Stats" height="200" />
         <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-azmi&&title_color=44b2da&text_color=FFFFFF&theme=algolia" alt="GitHub Most Used Languages" height="400" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-azmi&&title_color=44b2da&text_color=FFFFFF&theme=algolia&hide_border=true" alt="GitHub Most Used Languages" height="400" />
         <br>
     </div>
   </div>    
