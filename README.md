@@ -29,7 +29,7 @@
         <h1>Contribution Activity</h1>
         <img src="https://github-readme-stats.vercel.app/api?username=ab-azmi&title_color=44b2da&text_color=FFFFFF&show_icons=true&icon_color=44b2da&include_all_commits=true&count_private=true&theme=algolia" alt="GitHub Stats" height="200" />
         <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab-azmi&theme=algolia&date_format=j%20M%5B%20Y%5D&currStreakLabel=44b2da&fire=44b2da&ring=44b2da" alt="GitHub Streak Stats" height="200" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab-azmi&theme=algolia&date_format=j%20M%5B%20Y%5D&currStreakLabel=44b2da&fire=e9184c&ring=44b2da" alt="GitHub Streak Stats" height="200" />
         <br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-azmi&&title_color=44b2da&text_color=FFFFFF&theme=algolia" alt="GitHub Most Used Languages" height="400" />
         <br>
