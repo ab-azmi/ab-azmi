@@ -116,6 +116,10 @@
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=1hb1g6gk6hzx3ydxd916zut1w" alt="Spotify">
     </div>
 </details>
+<br/>
 
+<div>
+  <img src="bottom-01.png" alt="Gradients" width="100%">
+</div>
 
 <img src="Rainbow.gif" width="100%">
