@@ -1,6 +1,10 @@
 <img src="Rainbow.gif" width="100%">
 
 <div>
+  <img src="head-01.png" alt="Gradients" width="100%">
+</div>
+
+<div>
     <div align=center>
         <h3 align="center">Hello There, I'm Azmi <img width="25" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></h3>
     </div>
