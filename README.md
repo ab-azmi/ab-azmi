@@ -83,7 +83,7 @@
             </div>
             <h2>Will be Studied</h2>
              <div align=center>
-                <img src="https://img.shields.io/badge/-ReactJS-FF0054?style=for-the-badge&logo=react&logoColor=white&labelColor=black" width="150px"> &nbsp;
+                <img src="https://img.shields.io/badge/-VueJS-FF0054?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=black" width="150px"> &nbsp;
                 <img src="https://img.shields.io/badge/-NodeJS-purple?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black" width="120px"> &nbsp;
                 <img src="https://img.shields.io/badge/-UI Design-003F91?style=for-the-badge&logo=dribbble&logoColor=white&labelColor=black" width="150px"> &nbsp;
             </div>
