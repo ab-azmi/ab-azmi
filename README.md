@@ -69,7 +69,7 @@
         <div align=center>
             <h2>Understand Well</h2>
             <div align="center">
-              <img src="https://img.shields.io/badge/-Bash-ef5faa?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=black" width="120px"> &nbsp;
+              <!--<img src="https://img.shields.io/badge/-Bash-ef5faa?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=black" width="120px"> &nbsp; -->
               <img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white&labelColor=black" width="120px"> &nbsp;
               <img src="https://img.shields.io/badge/-CSS-1B998B?style=for-the-badge&logo=css3&logoColor=white&labelColor=black" width="120px"> &nbsp;
               <img src="https://img.shields.io/badge/-PHP-FF0054?style=for-the-badge&logo=php&logoColor=white&labelColor=black" width="120px"> &nbsp;              
