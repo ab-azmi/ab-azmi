@@ -111,7 +111,7 @@
 <details>
   <summary>🎶 Vibing to</summary>
     <div align=center>
-        <h2>The Musics I Like to Hear</h2>
+        <h2>The Music I Like to Hear</h2>
       <a href="https://open.spotify.com/user/1hb1g6gk6hzx3ydxd916zut1w">
       <!--  <img src="https://itstommi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song"> -->
           <img src="https://novatorem-pc2ql5v61-ab-azmi.vercel.app/api/spotify" alt="Current spotify song">
